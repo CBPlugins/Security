@@ -1,0 +1,10 @@
+name: Security
+version: 1.0.0
+main: org.cbplugins.security.Security
+author: CBPlugins
+description: A Plugin which loggs everything players do.
+
+commands:
+     notify:
+          usage: /<command> [on:off]
+          description: Turns on notifications in the chat.

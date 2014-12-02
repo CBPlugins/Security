@@ -1,0 +1,31 @@
+#Here you can turn on what is going to be logged in the files.
+
+Log-Block-Break: true
+
+Log-Block-Place: true
+
+Log-Enchant-Item: true
+
+Log-Player-Achievement: true
+
+Log-Player-Change-World: true
+
+Log-Player-Commands: true
+
+Log-Player-Gamemode-Change: true
+
+Log-Player-Join: true
+
+Log-Player-Kick: true
+
+Log-Player-Login: true
+
+Log-Player-Quit: true
+
+Log-Player-Teleport: true
+
+Log-Player-Flight: true
+
+Log-Plugin-Disable: true
+
+Log-Plugin-Enable: true
